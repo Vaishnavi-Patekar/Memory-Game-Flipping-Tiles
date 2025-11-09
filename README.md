@@ -45,3 +45,37 @@ A Java Swing-based memory game that challenges your brain by testing your memory
 | **javax.swing.Timer** | Used for both game timer and tile flip animation |
 
 ---
+
+---
+
+## 🚀 How to Run Locally
+
+### ✅ Prerequisites
+- Java JDK 8 or higher
+- Any code editor or IDE (VS Code, IntelliJ IDEA, Eclipse, etc.)
+
+---
+
+### 📦 Steps to Run via Terminal (Windows CMD):
+
+1. **Navigate to your project folder**:
+```bash
+cd %USERPROFILE%\Desktop\MemoryGame
+```
+2. **Compile all .java files:
+```
+javac *.java
+```
+3. **Run the game:
+```
+java Main
+```
+4. **Choose difficulty level when prompted (Easy / Medium / Hard)
+   🎯 Difficulty Modes
+| Mode   | Grid Size | Pairs |
+| ------ | --------- | ----- |
+| Easy   | 3 x 4     | 6     |
+| Medium | 4 x 4     | 8     |
+| Hard   | 6 x 6     | 18    |
+
+---
