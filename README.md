@@ -81,8 +81,6 @@ javac *.java
 java Main
 ```
 4. **Choose difficulty level when prompted (Easy / Medium / Hard)**:
-
-- 🎯 Difficulty Modes
    
 | Mode   | Grid Size | Pairs |
 | ------ | --------- | ----- |
