@@ -32,10 +32,15 @@ A Java Swing-based memory game that challenges your brain by testing your memory
 
 ---
 
-## 📁 MemoryGame/
-├── Main.java
-├── GameBoard.java
-└── Tile.java
+## 📂 Folder Structure
+
+```
+📁 MemoryGame/  
+├── Main.java         
+├── GameBoard.java      
+└── Tile.java          
+```
+---
 
 
 ## 🧑‍💻 Technologies Used
@@ -67,15 +72,15 @@ A Java Swing-based memory game that challenges your brain by testing your memory
 ```bash
 cd %USERPROFILE%\Desktop\MemoryGame
 ```
-2. **Compile all .java files:
+2. **Compile all .java files**:
 ```
 javac *.java
 ```
-3. **Run the game:
+3. **Run the game**:
 ```
 java Main
 ```
-4. **Choose difficulty level when prompted (Easy / Medium / Hard)
+4. **Choose difficulty level when prompted (Easy / Medium / Hard)**:
    🎯 Difficulty Modes
    
 | Mode   | Grid Size | Pairs |
@@ -86,12 +91,6 @@ java Main
 
 ---
 
-## 🌗 Dark Mode
 
-- Toggle light/dark mode with the 🌙 or ☀ button in the top bar.
-
-- Applies dynamic color themes across all tiles and background.
-
----
 
 
