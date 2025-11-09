@@ -32,6 +32,11 @@ A Java Swing-based memory game that challenges your brain by testing your memory
 
 ---
 
+## 📁 MemoryGame/
+├── Main.java
+├── GameBoard.java
+└── Tile.java
+
 
 ## 🧑‍💻 Technologies Used
 
@@ -72,10 +77,21 @@ java Main
 ```
 4. **Choose difficulty level when prompted (Easy / Medium / Hard)
    🎯 Difficulty Modes
+   
 | Mode   | Grid Size | Pairs |
 | ------ | --------- | ----- |
-| Easy   | 3 x 4     | 6     |
-| Medium | 4 x 4     | 8     |
-| Hard   | 6 x 6     | 18    |
+| Easy| 3 x 4| 6 |
+| Medium| 4 x 4 | 8 |
+| Hard| 6 x 6 | 18 |
 
 ---
+
+## 🌗 Dark Mode
+
+- Toggle light/dark mode with the 🌙 or ☀ button in the top bar.
+
+- Applies dynamic color themes across all tiles and background.
+
+---
+
+
